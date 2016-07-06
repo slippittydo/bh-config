@@ -3,9 +3,17 @@ Slippitty's Configs for BH
 
 ### Download
 
+BH 1.5s - https://github.com/slippittydo/slashdiablo-maphack/releases
+
 [Full](https://raw.githubusercontent.com/slippittydo/bh-config/master/1.5s/full/BH.cfg)
 
 [Lite](https://raw.githubusercontent.com/slippittydo/bh-config/master/1.5s/lite/BH.cfg)
+
+BH 1.7 - [Source](https://github.com/slayergod13/slashdiablo-maphack), [Reddit](https://www.reddit.com/r/slashdiablo/comments/3bky9h/new_maphack_features_testers_needed/)
+
+[Full](https://raw.githubusercontent.com/slippittydo/bh-config/master/1.7/full/BH.cfg)
+
+[Lite](https://raw.githubusercontent.com/slippittydo/bh-config/master/1.7/lite/BH.cfg)
 
 Lite Version - No items will be filtered except small gold piles.
 
