@@ -1,9 +1,24 @@
 Slippitty's Configs for BH
 ===================
 
+### Download
+
+[Full](https://raw.githubusercontent.com/slippittydo/bh-config/master/1.5s/full/BH.cfg)
+
+[Lite](https://raw.githubusercontent.com/slippittydo/bh-config/master/1.5s/lite/BH.cfg)
+
+Lite Version - No items will be filtered except small gold piles.
+
 ### What does this config do?
 
 Display valuable items on the map and filter clutter.
+
+### Screenshots
+
+* [No Filter](http://i.imgur.com/3Qvh81E.jpg)
+* [Filter](http://i.imgur.com/RrHXpfX.jpg)
+* [Colored boxes for items](http://i.imgur.com/emAsPoC.jpg)
+* [Dangerous monsters are purple](http://i.imgur.com/s3vLGdD.jpg)
 
 ### Complete list of items that appear on the map.
 Review prior to using.
@@ -141,3 +156,15 @@ Optinal White Items
 * Unid Greater Talons, Greater Claws, Feral Claws & Runic Talons
 * Unid Druid Pelts
 * Unid ETH Assassin Claws, Beserker Axe, Colossus Sword, Colossus Blade & Crystal Sword Variants
+
+### Item Filter
+
+Items listed as exceptions are not filtered.
+
+* Ignore ALMOST ALL inferior, white and magic Normal and Exceptional items
+* Normal Non-Magic Exceptions: Runewords, Broadsword, Crystal Sword, Flail, War Scepter, Ancient Armor, Gothic Plate
+* Normal Magic Exceptions: Identified Items, Staves, Wands, Scepters, Sorceress Orbs, Circlets
+* Exceptional Non-Magic Exceptions: Runewords, Greater Claws, Greater Talons, Mage Plate, Divine Scepter
+* Exceptional Magic Exceptions: Identified Items, Staves, Wands, Scepters, Sorceress Orbs, Circlets
+* Filtered Non-Magic Elite: Daggers, Throwing Weapons, Javelins, Crossbows, Gloves, Boots, Belts
+* Filtered Magic Elite: Unidentified - Daggers, Throwing Weapons, Javelins, Crossbows, Helms, Gloves Boots, Belts
