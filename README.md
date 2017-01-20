@@ -39,48 +39,44 @@ Review prior to using.
 ### Potential High Value/Rare items - Orange Box
 
 * **Eth** Andariel's Visage
-* Griffons
-* Crown of Ages
-* Tyraels/Templars
-* **Eth** Treks
-* Arachnid
+* Griffon's Eye
+* Unidentified or 2 socket Crown of Ages
+* Tyrael's Might
+* **Eth** Sandstorm Trek
+* Non-Eth Arachnid Mesh
 * **Eth** Death Cleaver
 * **Eth** Tomb Reaver
 * Death's Web
-* Fathom
+* Death's Fathom
 
 ### Uniques - Gold Box
 
 *Helmets*
 
 * Vampire Gaze
-* Shako
-* Nightwings/Veil of Steel
+* Harlequin Crest Shako
+* Nightwing's Veil or Veil of Steel
 * Andariel's Visage
 * Giant Skull
-* Griswolds
-* Mav'inas
-* Jalals
-* Arreats
+* Jalal's Mane
+* Arreat's Face
+* 1 socket Crown of Ages
 
 *Body Armor*
 
-* Viper Magi
+* Skin of the Vipermagi
 * Eth Duriel's Shell
 * Eth Shaftstop
-* Eth Skulders
-* Ormus Robes
+* Eth Skullder's Ire
+* Ormus' Robes
 * Arkaine's Valor
-* IK Armor
-* Tal Rasha Armor
-
+ 
 *Shields*
 
 * Stormshield
 * Herald of Zakarum
-* Griswold
 * Homunculous
-* Darkforce
+* Darkforce Spawn 
 
 *Gloves*
 
@@ -90,36 +86,45 @@ Review prior to using.
 *Boots*
 
 * Waterwalk
-* War Travelers
-* Gore Riders
+* War Traveler
+* Gore Rider
 * Marrowwalk
-* Treks
+* Sandstorm Trek
 * Shadow Dancer
 
 *Belts*
 
-* Verdungo
+* Verdungo's Hearty Cord
+* Eth Arachnid Mesh
 
 *Weapons*
 
-* Eth Runemaster
+* Eth Rune Master
 * Stormlash
-* Eth Reaper's Toll
+* Eth The Reaper's Toll
 * Windforce
-* Astreons
-* Bartucs
-* Occy
-* Eshutas
-* Titans
+* Astreon's Iron Ward
+* Bartuc's Cut-Throat
+* The Oculus
+* Eschuta's Temper
+* Titan's Revenge
 * Thunderstroke
 
 *Misc*
 
 * Unique Rings
 * Unique Amulets
-* Facets
-* Torches
-* Annis
+* Rainbow Facet
+* Hellfire Torch
+* Annihilus
+
+### Set Items - Green Box
+
+* Griswold's Valor
+* M'avina's True Sight
+* Immortal King's Soul Cage
+* Tal Rasha's Guardianship
+* Griswold's Honor
 
 ### Mapped Socketables - White Box
 
@@ -130,22 +135,29 @@ Review prior to using.
 * >30@ Elite Eth Exile Bases
 * High ED Dusk Shrouds, MagePlates and Archon Plates for Enigma & CoH/Fort
 * 15ed Monarchs
-* 10ed Eth Beserker Axe 0/4/5/6 socket
-* 10ed Eth Colossus Blade 0/4/6 sockets
-* 10ed Eth Colossus Sword 4/5 sockets
+* >=10ed Eth Beserker Axe 0/4/5/6 socket
+* >=10ed Eth Colossus Blade 0/4/6 sockets
+* >=10ed Eth Colossus Sword 0/4/5 sockets
+* >=10ed Eth War Pike and Great Poleaxe 0/6 sockets
 * Hybrid and Ghost Chaos Bases
 * 4os +3 GMB and Matriarchal Faith bases
-* 15ed Great Merc Faith
-* 3/3 FoH & Conviction sticks
+* 15ed Great Bow Merc Faith bases
+* 15ed Diamond Bow Faith bases
+* 3/3 FoH & Conviction bases
+* Holy Shield CTA bases
 * 3 Bone Spear and 3 Bone Spirit white bases
 
 Optinal White Items
-* Plain Diadems for imbue
-* Enchant Leaf & Energy Shield Memory bases
+* Enchant Leaf bases
+* Energy Shield Memory bases
+* Energy Shield CTA bases
 * 0/4/5/6 Socket Eth Crystal Swords
 * 0/4/5 Socket Eth Flails
 * Insight Golem Bases
-* Staff CTA Base - Energy Shield
+* Imbue Diadems
+* 3 Bone Spear OR 3 Bone Spirit White bases
+* Gothic Plate Enigma Bases
+* 15ed 0/4 Socket Blade bow and Great Bow Faith bases
 
 ### Magic items - Blue Box
 
