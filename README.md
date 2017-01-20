@@ -176,6 +176,18 @@ Optinal White Items
 * Unid Greater Talons, Greater Claws, Feral Claws & Runic Talons
 * Unid Druid Pelts
 * Unid ETH Assassin Claws, Beserker Axe, Colossus Sword, Colossus Blade & Crystal Sword Variants
+* Unid Amazon Javelins
+
+### Gosu Blue/Rare Items - Purple or Orange Boxes
+
+* JMOD
+* 4os Jeweller's Armor of the Whale
+* 4os Jeweller's Armor of Equillibrium
+* +5/6 Javelin Skills 40 IAS Zon Javelins
+* +6 Battle Order Barb Hats
+* 4+ Trap Skills Claws
+* +6 Enchant Orbs
+
 
 ### Item Filter
 
