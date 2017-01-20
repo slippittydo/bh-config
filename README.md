@@ -40,12 +40,12 @@ Review prior to using.
 
 * **Eth** Andariel's Visage
 * Griffon's Eye
-* Unidentified or 2 socket Crown of Ages
+* Unidentified or 2os Crown of Ages
 * Tyrael's Might
 * **Eth** Sandstorm Trek
 * Non-Eth Arachnid Mesh
 * **Eth** Death Cleaver
-* **Eth** Tomb Reaver
+* **Eth** Unidentified or 3os Tomb Reaver
 * Death's Web
 * Death's Fathom
 
@@ -60,7 +60,7 @@ Review prior to using.
 * Giant Skull
 * Jalal's Mane
 * Arreat's Face
-* 1 socket Crown of Ages
+* 1os Crown of Ages
 
 *Body Armor*
 
